@@ -9,3 +9,4 @@ The page had to use:
 
 The totoro icons are courtesy of flaticon.com. 
 All other images are otherwise linked to the original source or credited on-page.
+All other content and design is original.
