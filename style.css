@@ -1,0 +1,168 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  position: relative;
+  top: 0%;
+  font-family: 'Raleway', 'sans-serif';
+}
+p, h3{
+  color: #641E16;
+  margin: 12px;
+}
+h2{  
+   color: #641E16;
+   margin: 0px 12px;
+  }
+header{
+  position: relative;
+  display: flex;
+  height: auto;
+  width: 100%;
+  background: #ace9e7;
+}
+#site-name{
+  display: flex;
+  flex-direction: row;
+  margin-top: 24px;
+  margin-left: auto;
+  margin-right: auto;
+  border:solid;
+  border-right: none;
+}
+#totoro{
+  position: relative;
+  height:6rem;
+  top: 6px;
+  border-right:solid; 
+}
+#title{
+  font-size: 2.45em;
+  text-align: justify;
+  margin: 12px 0px;
+  padding-left: 6px;
+ }
+#navbar, #navbar :link, #navbar :visited {
+  padding-top: 24px;
+  padding-bottom: 10px;
+  width: 100vw;
+  color: #6E2C00;
+  text-decoration: none;
+  text-align: center;
+  margin: 0% auto;
+  font-weight: 300;
+  background:#ace9e7;
+}
+#navbar :hover{
+  border-bottom: solid 1px;
+}
+#img-div {
+  position: relative;
+  text-align: center; 
+  align-items: center;
+}
+figure{
+  position: relative;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#image{
+  position: relative;
+  display: block;
+  max-width: 90%;
+  height: auto;
+  margin: 6% auto 0% auto;
+  border-bottom: solid 2px lightgray;
+}
+#img-caption{
+  color: lightgray; 
+  font-size:0.5em; 
+  font-style:italic; 
+  position: relative;
+  bottom: 0px;
+  left: 0px;
+  margin-left: 12px;
+  max-width: 300px;
+}
+.return, .return:link, .return :visited, .list :link, .list :visited, .list, h5 {
+  color: #6E2C00;
+  text-decoration: none;
+  font-style: underline;
+  list-style: none;
+  margin-left: 12px;
+}
+
+#bio{
+  background: #ffd0b5;
+  background-size: ;
+  width: 100%;
+  padding: 48px 0px 120px 0px;;
+}
+#tribute-info, #sec2, #sec3, #sec4{
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 800px;
+  line-height: 24px;
+}
+#film{
+  background:#A9DFBF;
+  width: 100%;
+  padding: 48px 0px 120px 0px;
+}
+#fans{
+  padding-top: 48px;
+  height: auto;  
+}
+#reel{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 180px);
+  grid-template-rows: repeat(3, 170px);
+  grid-gap: 12px 24px;
+  margin-top: 24px;
+}
+#reel img{
+  border: none;
+  width: 180px;
+  height: 150px;
+  margin: 8px;
+  box-shadow: 2px 2px 6px gray;
+}
+#reel a :hover{
+  opacity: .5;
+  display: block;
+}
+a :link, a :visited{
+  text-decoration: none;
+}
+footer{
+  padding-top: 24px;
+  padding-bottom: 24px;
+  width: 100%;
+  background: #ace9e7;
+}
+#links{
+  text-align: right;
+  max-width: 600px;
+  border-left: solid 2px #6E2C00;
+}
+.list h3{
+  line-height: 24px;
+}
+#totg{
+  margin:2px -2px -2px 6px;
+  width: 36px;
+  height: auto;
+}
+
+#totb{
+  margin:-2px;
+  width: 30px;
+}
+#totr{
+  margin:-2px;
+  width: 24px;
+  height: auto;
+}
+
