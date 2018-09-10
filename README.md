@@ -3,7 +3,7 @@
 This project was created as part of the FCC.com front-end development challenges. 
 The criteria for this challenge was to build a tribute page using HTML and CSS. 
 The page had to use:
-- at least one flexbox or grid
+- at least one image
 - include at least one link to an external source
 - and supply sufficient content on the subject
 
